@@ -38,8 +38,8 @@ export default function Hero() {
         <div className="order-first lg:order-last">
           <div className="w-full h-80 bg-gray-100 rounded-lg flex items-center justify-center">
             <div className="w-full h-80 rounded-lg overflow-hidden">
-              <img
-                src="/assets/hero.jpg"  // ✅ Public folder
+              <img 
+			  src="/assets/Hero.jpg"  // ✅ Public folder
                 alt="Modern tech workspace"
                 className="w-full h-full object-cover"
                 loading="lazy"
