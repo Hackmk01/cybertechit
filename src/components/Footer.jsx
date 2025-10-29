@@ -18,12 +18,12 @@ export default function Footer() {
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-md bg-blue-600 flex items-center justify-center text-white font-bold">CT</div>
             <div>
-              <div className="font-semibold text-white">CyberTech IT Essentials</div>
+              <div className="font-semibold text-white">CiberTech IT Essentials</div>
               <div className="text-sm text-gray-400">Soluciones tecnológicas para hogares y Pymes</div>
             </div>
           </div>
           <p className="mt-4 text-sm text-gray-500">
-            © {new Date().getFullYear()} CyberTech IT Essentials. Todos los derechos reservados.
+            © {new Date().getFullYear()} CiberTech IT Essentials. Todos los derechos reservados.
           </p>
         </div>
 

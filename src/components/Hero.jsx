@@ -10,7 +10,7 @@ export default function Hero() {
         <div>
           <h2 className="text-4xl font-extrabold leading-tight">Tecnología al servicio de tu tranquilidad</h2>
           <p className="mt-4 text-lg text-gray-600">
-            En <strong>CyberTech IT Essentials</strong> brindamos soluciones integrales en soporte técnico, instalación de cámaras, redes, mantenimiento de PC y ciberseguridad. Atención a hogares y Pymes con servicio presencial y remoto.
+            En <strong>CiberTech IT Essentials</strong> brindamos soluciones integrales en soporte técnico, instalación de cámaras, redes, mantenimiento de PC y ciberseguridad. Atención a hogares y Pymes con servicio presencial y remoto.
           </p>
           <div className="mt-6 flex gap-4">
             <a href="#contacto" className="inline-block bg-blue-600 text-white px-5 py-3 rounded-md font-medium">Solicitar asistencia</a>

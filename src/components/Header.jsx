@@ -13,11 +13,11 @@ export default function Header() {
         <div className="flex items-center gap-4">
           <img
             src={logo}
-            alt="CyberTech IT Essentials"
+            alt="CiberTech IT Essentials"
             className="w-20 h-20 object-contain"
           />
           <div>
-            <h1 className="text-lg font-bold text-gray-200">CyberTech IT Essentials</h1>
+            <h1 className="text-lg font-bold text-gray-200">CiberTech IT Essentials</h1>
             <p className="text-sm text-gray-400">Soluciones tecnológicas para hogares y Pymes</p>
           </div>
         </div>

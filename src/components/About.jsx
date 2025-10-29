@@ -12,7 +12,7 @@ export default function About() {
       <div className="max-w-4xl mx-auto px-6 lg:px-8 text-center">
         <h3 className="text-2xl font-bold">Sobre nosotros</h3>
         <p className="mt-4 text-gray-600">
-          En <strong>CyberTech IT Essentials</strong> creemos que la tecnología debe facilitar tu día a día. Somos un equipo con experiencia en soluciones prácticas y seguras para hogares y pequeñas empresas.
+          En <strong>CiberTech IT Essentials</strong> creemos que la tecnología debe facilitar tu día a día. Somos un equipo con experiencia en soluciones prácticas y seguras para hogares y pequeñas empresas.
         </p>
         <div className="mt-8 grid grid-cols-1 sm:grid-cols-3 gap-6">
           {cards.map((c, i) => (
