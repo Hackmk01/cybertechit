@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Menu, X } from "lucide-react";
+import logo from "../assets/logo6.png"; // ✅ Importa el logo correctamente
 
 export default function Header() {
   const [open, setOpen] = useState(false);
@@ -11,7 +12,7 @@ export default function Header() {
         {/* Logo */}
         <div className="flex items-center gap-4">
           <img
-            src="/src/assets/logo6.png"
+            src={logo}
             alt="CyberTech IT Essentials"
             className="w-20 h-20 object-contain"
           />
