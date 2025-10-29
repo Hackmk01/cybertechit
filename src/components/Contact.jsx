@@ -27,7 +27,7 @@ export default function Contact() {
           </form>
           <div className="mt-6 text-sm text-gray-600 space-y-2">
             <div className="flex items-center gap-2"><MapPin size={16} /> Dirección: <span className="font-medium ml-2">Pasaje Parque del Peumo #02774</span></div>
-            <div className="flex items-center gap-2"><Mail size={16} /> Email: <span className="font-medium ml-2">      cybertechitessentials@gmail.com</span></div>
+            <div className="flex items-center gap-2"><Mail size={16} /> Email: <span className="font-medium ml-2">soporte@cibertechit.cl</span></div>
             <div className="flex items-center gap-2"><Phone size={16} /> Tel: <span className="font-medium ml-2">       +56 9 45409091</span></div>
           </div>
         </div>
