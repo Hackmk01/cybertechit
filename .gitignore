@@ -126,7 +126,9 @@ dist
 .vscode-test
 
 # Vite build output
+node_modules/
 dist/
+
 
 
 # yarn v3
